@@ -1,2 +1,5 @@
 # hello-world
-hello world sample repo
+
+Hi all!
+
+Trying out github...
